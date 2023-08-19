@@ -44,6 +44,8 @@ cd weather-forecast-system
 ```
 3. Install Anaconda, make a new environment, and install all the dependencies:
 
+```bash
+
 pip install numpy
 
 pip install pandas
@@ -54,10 +56,14 @@ pip install streamlit
 
 pip install matplotlib
 
+```
+
 4. Copy the path of the homepage.py and run the project using command:
 
+```bash
 streamlit run "path/homepage.py"
 
+```
 ## Contributing
 
 Contributions are welcome! If you find a bug, have a feature request, or want to make improvements, please open an issue or submit a pull request. Make sure to follow the project's coding style and guidelines.
