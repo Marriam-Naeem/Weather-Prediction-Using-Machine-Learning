@@ -9,7 +9,6 @@ The Weather Forecast System is a project aimed at providing accurate and user-fr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
   ## Introduction
 
@@ -50,3 +49,6 @@ pip install matplotlib
 3. Copy the path of the homepage.py and run the project using command:
 streamlit run "path/homepage.py"
 
+## Contributing
+
+Contributions are welcome! If you find a bug, have a feature request, or want to make improvements, please open an issue or submit a pull request. Make sure to follow the project's coding style and guidelines.
