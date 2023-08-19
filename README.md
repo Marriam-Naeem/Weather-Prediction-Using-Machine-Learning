@@ -36,17 +36,25 @@ Weather prediction plays a vital role in various sectors, from agriculture to em
   ## Installation
 
 1. Clone the repository:
+   
 git clone https://github.com/Marriam-Naeem/Weather-Prediction-Using-Machine-Learning.git
+
 cd weather-forecast-system
 
-2. Install Anaconda, make a new environment, and install all the dependencies:
+3. Install Anaconda, make a new environment, and install all the dependencies:
+
 pip install numpy
+
 pip install pandas
+
 pip install scikit-learn
+
 pip install streamlit
+
 pip install matplotlib
 
-3. Copy the path of the homepage.py and run the project using command:
+4. Copy the path of the homepage.py and run the project using command:
+
 streamlit run "path/homepage.py"
 
 ## Contributing
