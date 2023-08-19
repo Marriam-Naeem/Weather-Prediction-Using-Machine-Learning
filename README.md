@@ -36,11 +36,12 @@ Weather prediction plays a vital role in various sectors, from agriculture to em
   ## Installation
 
 1. Clone the repository:
-   
+
+```bash
 git clone https://github.com/Marriam-Naeem/Weather-Prediction-Using-Machine-Learning.git
 
 cd weather-forecast-system
-
+```
 3. Install Anaconda, make a new environment, and install all the dependencies:
 
 pip install numpy
